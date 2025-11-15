@@ -1,15 +1,15 @@
+# <img width="250" height="30" src="https://glitch-art.vercel.app/api/simple?word=Hi%20I'm%20Roy-Jin&font=Doto" />
+
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Roy-Jin&layout=donut&custom_title=What%20Languages%20I%20Use&theme=radical"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Roy-Jin&layout=pie&custom_title=What%20Languages%20I%20Use&theme=radical"
     media="(prefers-color-scheme: dark)" />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Roy-Jin&layout=donut&custom_title=What%20Languages%20I%20Use"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Roy-Jin&layout=pie&custom_title=What%20Languages%20I%20Use"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roy-Jin&layout=donut&custom_title=What%20Languages%20I%20Use"
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roy-Jin&layout=pie&custom_title=What%20Languages%20I%20Use"
     align="right" />
 </picture>
-
-# <img width="250" height="30" src="https://glitch-art.vercel.app/api/simple?word=Hi%20I'm%20Roy-Jin&font=Doto" />
 
 > ☕ Coffee is bitter, Life is sweet.
 
