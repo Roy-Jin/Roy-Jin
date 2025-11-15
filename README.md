@@ -22,7 +22,7 @@
 
 ### 📫 Directions
 
-- 🌐 [Website](https://r-j.pages.dev/)
-- ✉️ [Email](mailto:JinRoy@outlook.com)
-- 📺 [Bilibili](https://space.bilibili.com/3461572714302163)
-- 🐧 [QQ](https://qm.qq.com/q/2Qaj5mB6Jq)
+- 🌐 [https://r-j.pages.dev](https://r-j.pages.dev/)
+- ✉️ [JinRoy@outlook.com](mailto:JinRoy@outlook.com)
+- 🐧 [//qm.qq.com/q/2Qaj5mB6Jq](https://qm.qq.com/q/2Qaj5mB6Jq)
+- 📺 [//space.bilibili.com/3461572714302163](https://space.bilibili.com/3461572714302163)
