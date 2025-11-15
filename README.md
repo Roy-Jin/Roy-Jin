@@ -1,0 +1,8 @@
+# Hi, Roy-Jin.
+
+> Coffee is bitter, Life is sweet.
+
+<a href="https://github.com/Roy-Jin">
+  <img height="150em" style="float: left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Roy-Jin&layout=compact&langs_count=6"/>
+  <img height="150em" style="float: right" src="https://github-readme-stats.vercel.app/api?username=Roy-Jin&show_icons=true&hide=contribs"/>
+</a>
