@@ -1,20 +1,17 @@
 ### <img width="200" height="25" src="https://glitch-art.vercel.app/api/simple?word=Hi%20I'm%20Roy-Jin&font=Doto" /> 👋
 
-> Coffee is bitter, Life is sweet.
-
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Roy-Jin&layout=pie&custom_title=What%20Languages%20I%20Use&theme=radical"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Roy-Jin&layout=donut&custom_title=What%20Languages%20I%20Use&theme=radical"
     media="(prefers-color-scheme: dark)" />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Roy-Jin&layout=pie&custom_title=What%20Languages%20I%20Use"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Roy-Jin&layout=donut&custom_title=What%20Languages%20I%20Use"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roy-Jin&layout=pie&custom_title=What%20Languages%20I%20Use"
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roy-Jin&layout=donut&custom_title=What%20Languages%20I%20Use"
     align="right" />
 </picture>
 
-咖啡很苦，生活很甜！\
-Coffee is bitter, Life is sweet.
+> Coffee is bitter, Life is sweet.
 
 - Read my [WebSite](https://r-j.pages.dev/) to learn more about me.
 - Email me at [mailto:JinRoy@outlook.com](mailto:JinRoy@outlook.com).
