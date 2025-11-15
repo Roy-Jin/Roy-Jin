@@ -1,8 +1,22 @@
-# Hi, Roy-Jin.
+### <img width="200" height="25" src="https://glitch-art.vercel.app/api/simple?word=Hi%20I'm%20Roy-Jin&font=Doto" /> 👋
 
 > Coffee is bitter, Life is sweet.
 
-<a href="https://github.com/Roy-Jin">
-  <img height="150em" style="float: left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Roy-Jin&layout=compact&langs_count=6"/>
-  <img height="150em" style="float: right" src="https://github-readme-stats.vercel.app/api?username=Roy-Jin&show_icons=true&hide=contribs"/>
-</a>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Roy-Jin&layout=pie&custom_title=What%20Languages%20I%20Use&theme=radical"
+    media="(prefers-color-scheme: dark)" />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Roy-Jin&layout=pie&custom_title=What%20Languages%20I%20Use"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roy-Jin&layout=pie&custom_title=What%20Languages%20I%20Use"
+    align="right" />
+</picture>
+
+咖啡很苦，生活很甜！\
+Coffee is bitter, Life is sweet.
+
+- Read my [WebSite](https://r-j.pages.dev/) to learn more about me.
+- Email me at [mailto:JinRoy@outlook.com](mailto:JinRoy@outlook.com).
+- Follow me on [Bilibili](https://space.bilibili.com/3461572714302163) or
+  [QQ](https://qm.qq.com/q/2Qaj5mB6Jq).
