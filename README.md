@@ -1,5 +1,3 @@
-### <img width="200" height="25" src="https://glitch-art.vercel.app/api/simple?word=Hi%20I'm%20Roy-Jin&font=Doto" /> 👋
-
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Roy-Jin&layout=donut&custom_title=What%20Languages%20I%20Use&theme=radical"
@@ -11,9 +9,20 @@
     align="right" />
 </picture>
 
-> Coffee is bitter, Life is sweet.
+# <img width="250" height="30" src="https://glitch-art.vercel.app/api/simple?word=Hi%20I'm%20Roy-Jin&font=Doto" />
 
-- Read my [WebSite](https://r-j.pages.dev/) to learn more about me.
-- Email me at [mailto:JinRoy@outlook.com](mailto:JinRoy@outlook.com).
-- Follow me on [Bilibili](https://space.bilibili.com/3461572714302163) or
-  [QQ](https://qm.qq.com/q/2Qaj5mB6Jq).
+> ☕ Coffee is bitter, Life is sweet.
+
+### 🚀 About Me
+
+- 🌏 I'm from Jiujiang City, China.
+- 🔭 Passionate about web development and open source.
+- 🌱 Currently learning new technologies.
+- 💡 Enjoy solving problems with code.
+
+### 📫 How to reach me
+
+- 🌐 [Website](https://r-j.pages.dev/)
+- ✉️ [Email](mailto:JinRoy@outlook.com)
+- 📺 [Bilibili](https://space.bilibili.com/3461572714302163)
+- 🐧 [QQ](https://qm.qq.com/q/2Qaj5mB6Jq)
