@@ -1,8 +1,8 @@
 
       <svg
         width="300"
-        height="375"
-        viewBox="0 0 300 375"
+        height="285"
+        viewBox="0 0 300 285"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -13,7 +13,7 @@
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
-            fill: #fe428e;
+            fill: #ff6e96;
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
           @supports(-moz-appearance: auto) {
@@ -38,7 +38,7 @@
       }
     }
     .stat {
-      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #a9fef7;
+      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #f8f8f2;
     }
     @supports(-moz-appearance: auto) {
       /* Selector detects Firefox */
@@ -47,7 +47,7 @@
     .bold { font-weight: 700 }
     .lang-name {
       font: 400 11px "Segoe UI", Ubuntu, Sans-Serif;
-      fill: #a9fef7;
+      fill: #f8f8f2;
     }
     .stagger {
       opacity: 0;
@@ -93,7 +93,7 @@
           height="99%"
           stroke="#e4e2e2"
           width="299"
-          fill="#141321"
+          fill="#282a36"
           stroke-opacity="1"
         />
 
@@ -108,7 +108,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >What Languages I Use?</text>
+      >What Langs Do I Use?</text>
     </g>
       </g>
     
@@ -118,113 +118,103 @@
           transform="translate(0, 55)"
         >
           
-    <svg data-testid="lang-items">
+    <svg data-testid="lang-items" x="25">
       <g transform="translate(0, 0)">
-        <svg data-testid="pie">
-          
-      <g class="stagger" style="animation-delay: 100ms">
-        <path
-          data-testid="lang-pie"
-          size="68.23000097736004"
-          d="M 150 100 L 240 100 A 90 90 0 1 1 112.86066474748827 18.020308752706683 Z"
-          fill="#3178c6"
-        />
-      </g>
-    
-      <g class="stagger" style="animation-delay: 200ms">
-        <path
-          data-testid="lang-pie"
-          size="26.202856873077373"
-          d="M 150 100 L 112.86066474748827 18.020308752706683 A 90 90 0 0 1 234.54990408071257 69.15662599613486 Z"
-          fill="#41b883"
-        />
-      </g>
-    
-      <g class="stagger" style="animation-delay: 300ms">
-        <path
-          data-testid="lang-pie"
-          size="2.037381536509367"
-          d="M 150 100 L 234.54990408071257 69.15662599613486 A 90 90 0 0 1 237.7956432109642 80.20290341557438 Z"
-          fill="#663399"
-        />
-      </g>
-    
-      <g class="stagger" style="animation-delay: 400ms">
-        <path
-          data-testid="lang-pie"
-          size="1.4734944928246865"
-          d="M 150 100 L 237.7956432109642 80.20290341557438 A 90 90 0 0 1 239.2498870056869 88.40441163751836 Z"
-          fill="#555555"
-        />
-      </g>
-    
-      <g class="stagger" style="animation-delay: 500ms">
-        <path
-          data-testid="lang-pie"
-          size="1.180120828204954"
-          d="M 150 100 L 239.2498870056869 88.40441163751836 A 90 90 0 0 1 239.86366265447336 95.04801713219757 Z"
-          fill="#f1e05a"
-        />
-      </g>
-    
-      <g class="stagger" style="animation-delay: 600ms">
-        <path
-          data-testid="lang-pie"
-          size="0.8761452920235826"
-          d="M 150 100 L 239.86366265447336 95.04801713219757 A 90 90 0 0 1 240 99.99999999999997 Z"
-          fill="#e34c26"
-        />
-      </g>
-    
-        </svg>
-      </g>
-      <g transform="translate(0, 220)">
-        <svg data-testid="lang-names" x="25">
-          <g transform="translate(0, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
-      <circle cx="5" cy="6" r="5" fill="#3178c6" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript 68.23%
-      </text>
+      <text data-testid="lang-name" x="2" y="15" class="lang-name">TypeScript</text>
+      <text x="215" y="34" class="lang-name">68.83%</text>
+      
+    <svg width="205" x="0" y="25">
+      <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"></rect>
+      <svg data-testid="lang-progress" width="68.8330787562377%">
+        <rect
+            height="8"
+            fill="#3178c6"
+            rx="5" ry="5" x="0" y="0"
+            class="lang-progress"
+            style="animation-delay: 750ms;"
+        />
+      </svg>
+    </svg>
+  
     </g>
-  </g><g transform="translate(0, 25)">
+  </g><g transform="translate(0, 40)">
     <g class="stagger" style="animation-delay: 600ms">
-      <circle cx="5" cy="6" r="5" fill="#41b883" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Vue 26.20%
-      </text>
+      <text data-testid="lang-name" x="2" y="15" class="lang-name">Vue</text>
+      <text x="215" y="34" class="lang-name">26.43%</text>
+      
+    <svg width="205" x="0" y="25">
+      <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"></rect>
+      <svg data-testid="lang-progress" width="26.43446116000254%">
+        <rect
+            height="8"
+            fill="#41b883"
+            rx="5" ry="5" x="0" y="0"
+            class="lang-progress"
+            style="animation-delay: 900ms;"
+        />
+      </svg>
+    </svg>
+  
     </g>
-  </g><g transform="translate(0, 50)">
+  </g><g transform="translate(0, 80)">
     <g class="stagger" style="animation-delay: 750ms">
-      <circle cx="5" cy="6" r="5" fill="#663399" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        CSS 2.04%
-      </text>
+      <text data-testid="lang-name" x="2" y="15" class="lang-name">CSS</text>
+      <text x="215" y="34" class="lang-name">2.06%</text>
+      
+    <svg width="205" x="0" y="25">
+      <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"></rect>
+      <svg data-testid="lang-progress" width="2.055389736922146%">
+        <rect
+            height="8"
+            fill="#663399"
+            rx="5" ry="5" x="0" y="0"
+            class="lang-progress"
+            style="animation-delay: 1050ms;"
+        />
+      </svg>
+    </svg>
+  
     </g>
-  </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
-    <g class="stagger" style="animation-delay: 450ms">
-      <circle cx="5" cy="6" r="5" fill="#555555" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C 1.47%
-      </text>
+  </g><g transform="translate(0, 120)">
+    <g class="stagger" style="animation-delay: 900ms">
+      <text data-testid="lang-name" x="2" y="15" class="lang-name">C</text>
+      <text x="215" y="34" class="lang-name">1.49%</text>
+      
+    <svg width="205" x="0" y="25">
+      <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"></rect>
+      <svg data-testid="lang-progress" width="2%">
+        <rect
+            height="8"
+            fill="#555555"
+            rx="5" ry="5" x="0" y="0"
+            class="lang-progress"
+            style="animation-delay: 1200ms;"
+        />
+      </svg>
+    </svg>
+  
     </g>
-  </g><g transform="translate(0, 25)">
-    <g class="stagger" style="animation-delay: 600ms">
-      <circle cx="5" cy="6" r="5" fill="#f1e05a" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript 1.18%
-      </text>
+  </g><g transform="translate(0, 160)">
+    <g class="stagger" style="animation-delay: 1050ms">
+      <text data-testid="lang-name" x="2" y="15" class="lang-name">JavaScript</text>
+      <text x="215" y="34" class="lang-name">1.19%</text>
+      
+    <svg width="205" x="0" y="25">
+      <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"></rect>
+      <svg data-testid="lang-progress" width="2%">
+        <rect
+            height="8"
+            fill="#f1e05a"
+            rx="5" ry="5" x="0" y="0"
+            class="lang-progress"
+            style="animation-delay: 1350ms;"
+        />
+      </svg>
+    </svg>
+  
     </g>
-  </g><g transform="translate(0, 50)">
-    <g class="stagger" style="animation-delay: 750ms">
-      <circle cx="5" cy="6" r="5" fill="#e34c26" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        HTML 0.88%
-      </text>
-    </g>
-  </g></g>
-        </svg>
-      </g>
+  </g>
     </svg>
   
         </g>
