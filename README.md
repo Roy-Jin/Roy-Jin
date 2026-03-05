@@ -4,13 +4,13 @@
 
 ---
 
-<p align="center">
-☕ Coffee is bitter, Life is sweet.
-</p>
-
 <div align="center">
 <img src="profile/topLangs.svg" aglin="right" alt="Top Langs"/>
 </div>
+
+<p align="center">
+☕ Coffee is bitter, Life is sweet.
+</p>
 
 <p align="center">
   <a href="https://r-j.pages.dev">
