@@ -7,7 +7,7 @@
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Roy-Jin&layout=pie&custom_title=What%20Languages%20I%20Use%3F&theme=ambient_gradient"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roy-Jin&layout=pie&custom_title=What%20Languages%20I%20Use%3F&theme=radical"
+  <img src="./profile/top-langs.svg"
     align="right" />
 </picture>
 
