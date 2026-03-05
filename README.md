@@ -1,28 +1,32 @@
-# [![Hello, I'm Roy-Jin.](https://glitch-art.vercel.app/api/simple?word=Hello,%20I'm%20Roy-Jin.&fontSize=30&width=370&height=30&font=Doto&fontWeight=500)](#)
+<div style="display: flex; justify-content: space-between;">
 
-<picture>
-  <!-- <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Roy-Jin&layout=pie&custom_title=What%20Languages%20I%20Use%3F&theme=radical"
-    media="(prefers-color-scheme: dark)" />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Roy-Jin&layout=pie&custom_title=What%20Languages%20I%20Use%3F&theme=ambient_gradient"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" /> -->
-  <img src="./profile/top-langs.svg"
-    align="right" />
-</picture>
+<div style="display: flex; flex-direction: column; justify-content: space-between;">
 
-> ☕ **Coffee is bitter, Life is sweet.**
+<Picture style="height: 30px;">
+<source srcset="./profile/title.svg" type="image/svg">
+<source srcset="https://glitch-art.vercel.app/api/simple?word=Hello,%20I'm%20Roy-Jin.&fontSize=30&width=370&height=30&font=Doto&fontWeight=500" type="image/svg">
+<img src="./profile/title.svg" alt="Hello, I'm Roy-Jin.">
+</Picture>
 
-### 🚀 About Me
+<hr />
 
-- 🌏 I'm from Jiujiang City, China.
-- 🔭 Passionate about web development and open source.
-- 🌱 Currently learning new technologies.
-- 💡 Enjoy solving problems with code.
+<p style="background-color: #f2f2f220;margin: 5px;border-radius: 5px;font-weight: bold;font-size: 1.2rem;padding: 3px 10px;border-left: 3px solid #f2f2f2;">
+☕ Coffee is bitter, Life is sweet.
+</p>
 
-### 📫 Directions
+<div style="display: flex; justify-content: space-evenly;">
 
-- 🌐 [https://r-j.pages.dev](https://r-j.pages.dev/)
-- ✉️ [JinRoy@outlook.com](mailto:JinRoy@outlook.com)
-- 🐧 [//qm.qq.com/q/2Qaj5mB6Jq](https://qm.qq.com/q/2Qaj5mB6Jq)
-- 📺 [//space.bilibili.com/3461572714302163](https://space.bilibili.com/3461572714302163)
+<img src="https://img.shields.io/badge/web-%2351848b?style=for-the-badge&logo=googlechrome&logoColor=%23fff&link=https%3A%2F%2Fr-j.pages.dev" alt="MyIndex"/>
+<img src="https://img.shields.io/badge/mail-%2351848b?style=for-the-badge&logo=gmail&logoColor=%23fff&link=mailto%3AJinRoy%40outlook.com" alt="OutLook"/>
+<img src="https://img.shields.io/badge/qq-%2351848b?style=for-the-badge&logo=qq&logoColor=%23fff&link=https%3A%2F%2Fqm.qq.com%2Fq%2F2Qaj5mB6Jq" alt="QQ"/>
+<img src="https://img.shields.io/badge/bili-%2351848b?style=for-the-badge&logo=bilibili&logoColor=%23fff&link=https%3A%2F%2Fspace.bilibili.com%2F3461572714302163" alt="bilibili"/>
+
+</div>
+
+<img src="https://awesome-github-stats.azurewebsites.net/user-stats/Roy-Jin?cardType=github&theme=dracula" width="98%" alt="GitHub Stats"/>
+
+</div>
+
+<img src="./profile/top-langs.svg" width="40%" alt="Top Langs"/>
+
+</div>
