@@ -20,7 +20,7 @@ jobs:
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&custom_title=Languages%20I%20Use&theme=dracula
-          path: profile/top-langs.svg
+          path: profile/topLangs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards

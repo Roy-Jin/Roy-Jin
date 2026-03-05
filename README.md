@@ -27,7 +27,7 @@
 </p>
 
 <div align="center">
-<img src="profile/top-langs_compact.svg" aglin="right" alt="Top Langs"/>
+<img src="profile/topLangs.svg" aglin="right" alt="Top Langs"/>
 </div>
 
 <!-- <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Roy-Jin?cardType=github&theme=dracula" width="48%" aglin="left" alt="Roy-Jin's GitHub Stats"/> -->
