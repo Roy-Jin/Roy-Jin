@@ -2,15 +2,15 @@
 <img src="https://glitch-art.vercel.app/api/simple?word=Hello,%20I'm%20Roy-Jin.&fontSize=30&width=370&height=30&font=Doto&fontWeight=500">
 </p>
 
+<p align="center">
+☕ Coffee is bitter, Life is sweet.
+</p>
+
 ---
 
 <div align="center">
 <img src="profile/topLangs.svg" aglin="right" alt="Top Langs"/>
 </div>
-
-<p align="center">
-☕ Coffee is bitter, Life is sweet.
-</p>
 
 <p align="center">
   <a href="https://r-j.pages.dev">
