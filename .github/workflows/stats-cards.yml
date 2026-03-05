@@ -15,12 +15,28 @@ jobs:
     steps:
       - uses: actions/checkout@v6
 
-      - name: Generate top languages card
+      - name: top-langs normal
         uses: stats-organization/github-readme-stats-action@v1.1.0
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=pie&custom_title=What%20Langs%20Do%20I%20Use%3F&theme=dracula
+          options: username=${{ github.repository_owner }}&layout=normal&custom_title=What%20Langs%20Do%20I%20Use%3F&theme=dracula
           path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: top-langs compact
+        uses: stats-organization/github-readme-stats-action@v1.1.0
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&custom_title=What%20Langs%20Do%20I%20Use%3F&theme=dracula
+          path: profile/top-langs_compact.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: top-langs donut
+        uses: stats-organization/github-readme-stats-action@v1.1.0
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=donut&custom_title=What%20Langs%20Do%20I%20Use%3F&theme=dracula
+          path: profile/top-langs_donut.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
