@@ -2,11 +2,7 @@
 
 <div style="display: flex; flex-direction: column; justify-content: space-between;">
 
-<Picture style="height: 30px;">
-<source srcset="./profile/title.svg" type="image/svg">
-<source srcset="https://glitch-art.vercel.app/api/simple?word=Hello,%20I'm%20Roy-Jin.&fontSize=30&width=370&height=30&font=Doto&fontWeight=500" type="image/svg">
-<img src="./profile/title.svg" alt="Hello, I'm Roy-Jin.">
-</Picture>
+<img src="https://glitch-art.vercel.app/api/simple?word=Hello,%20I'm%20Roy-Jin.&fontSize=30&width=370&height=30&font=Doto&fontWeight=500" alt="Hello, I'm Roy-Jin.">
 
 <hr />
 
@@ -27,6 +23,6 @@
 
 </div>
 
-<img src="./profile/top-langs.svg" width="40%" alt="Top Langs"/>
+<img src="profile/top-langs.svg" width="40%" alt="Top Langs"/>
 
 </div>
