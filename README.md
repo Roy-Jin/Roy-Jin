@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="" target="_self">
+  <a href="https://github.com/Roy-Jin" target="_self">
     <img src="https://glitch-art.vercel.app/api/simple?word=Hello,%20I'm%20Roy-Jin.&fontSize=30&width=370&height=30&font=Doto&fontWeight=500" />
   </a>
 </p>
@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  <a href="" target="_self">
+  <a href="https://github.com/Roy-Jin" target="_self">
     <img src="profile/topLangs.svg" aglin="right" alt="Top Langs"/>
   </a>
 </p>
